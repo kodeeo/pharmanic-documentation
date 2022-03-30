@@ -1,4 +1,9 @@
 # Front-end Installation
 
-Test test test
-![Tux, the Linux mascot](/screenshots/Picture1.png)
+```bash
+git clone https://github.com/kodeeo/pharmanic-frontend.git
+npm install -g pm2 yarn
+yarn
+yarn build
+yarn serve
+```

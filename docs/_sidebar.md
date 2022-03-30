@@ -5,3 +5,5 @@
 
 - Admin Dashboard
   - [Login](login.md)
+  - [Dashboard](dashboard.md)
+  - [Pharmacy](pharmacy.md)
