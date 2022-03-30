@@ -1,4 +1,4 @@
-# Backend Installation :
+# Backend Installation
 
 ```bash
 git@github.com:kodeeo/pharmanic-backend.git
