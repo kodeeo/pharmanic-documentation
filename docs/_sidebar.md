@@ -16,9 +16,9 @@
   - [Transaction](transaction.md)
 
 - User Site
-
   - [Registration](registration.md)
   - [Add post](addpost.md)
-  - [For buy](buy.md)
-
-
+  - [Buy](buy.md)
+  - [Account](account.md)
+  - [Sell](addpost.md)
+  
