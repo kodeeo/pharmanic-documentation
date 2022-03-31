@@ -7,4 +7,6 @@
   - [Login](login.md)
   - [Dashboard](dashboard.md)
   - [Pharmacy](pharmacy.md)
-  - [product](product.md)
+  - [Product](product.md)
+  - [post](post.md)
+
