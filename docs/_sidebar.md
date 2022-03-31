@@ -16,5 +16,5 @@
   - [Transaction](transaction.md)
 
 - User Site
-
-  -[Registration](registration.md)
+  [Registration](registration.md)
+  [Account](account.md)
