@@ -17,4 +17,6 @@
 
 - User Site
 
-  -[Registration](registration.md)
+  - [Registration](registration.md)
+  - [Add post](addpost.md)
+
