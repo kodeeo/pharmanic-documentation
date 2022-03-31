@@ -25,7 +25,7 @@
 
 # A pharmacy can see the order list in the sell order section:
 
-- From the pharmacy account they can manage their order and post easily.
+- From the pharmacy account they can manage their order easily.
 
 ![Sell Order](/screenshots/sell-order.png)
 
