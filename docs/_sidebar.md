@@ -19,4 +19,6 @@
 
   - [Registration](registration.md)
   - [Add post](addpost.md)
+  - [For buy](buy.md)
+
 
