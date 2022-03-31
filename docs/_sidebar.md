@@ -17,8 +17,11 @@
 
 - User Site
   - [Registration](registration.md)
-  - [Add post](addpost.md)
   - [Buy](buy.md)
   - [Account](account.md)
   - [Sell](addpost.md)
+
+- Guest login 
+  - [login](guestlogin.md)
+
   

@@ -24,7 +24,7 @@
 ## Order list
 - The pharmacy can see the order list and order status in buy orders section
 
-![Order list](/screenshots/sellitemlist.png)
+![Order list](/screenshots/order-list.png)
 
 ## Order details
 - This pharmacy can view the order details too.
