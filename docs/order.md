@@ -4,7 +4,7 @@
 
 # Order list:
 
--Admin can see the order list. 
+-All orders list are visualize from here. 
 
 ![Order List](/screenshots/order-list.png)
 
@@ -16,7 +16,7 @@
 
 # Order filter:
 
--Also admin can filter order by from-date to to-date where
+-Also admin can filter order by from-date to to-date, where
 you can filter data in month wise or day wise.
 
 ![Order List](/screenshots/order-search.png)

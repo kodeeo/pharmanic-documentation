@@ -14,7 +14,7 @@
 
 # Pharmacy approved or disapproved by admin
 
-- Pharmacy can register accounts from the registration page, Administrators must approve their accounts before they start logging to the application.
+- Pharmacy can register an accounts from the registration page, Administrators must approve their accounts before they start log In to the application.
 
 ![Pharmacy Approval](/screenshots/approve-pharmacy.png)
 

@@ -1,7 +1,7 @@
 # Product package Management
 
 - Product packages are classified under products. To control them, 
-first go to the product module and add product then add product package in product package section.
+first go to the product module and add product after that add product package in product package section.
 
 # Product package list:
  

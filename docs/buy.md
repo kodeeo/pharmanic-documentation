@@ -4,7 +4,7 @@
 ![Buy](/screenshots/login.png)
 
 ## Sell item list
-- Here is the post list where the pharmacy can see the all post that is created by the other pharmacies,you can just add to cart just one pharmacy at a time.
+- Here is the post list where the pharmacy can see the all post that is created by the other pharmacies,on the same time you can add post from one pharmacy at a time.
 
 ![Sell item list](/screenshots/sellitemlist.png)
 
