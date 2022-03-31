@@ -4,7 +4,7 @@
 
 ![Profile](/screenshots/profile.png)
 
-- From this page pharmacy can see all the information that is provided on time of registration.
+- In this section pharmacy can see all the information that is provided by registration.
 - Pharmacy can not change the information, it only can be changed by the customer service.
 
 - Pharmacy can update his password too.
@@ -13,7 +13,7 @@
 
 # My posting 
 
-- From my profile's ‘My postings’ option pharmacy can view only those posts that are created by the pharmacy.
+- From my profile's ‘My postings’ option pharmacy can view only those posts that are created by himself.
 
 ![Post](/screenshots/post.png)
 
