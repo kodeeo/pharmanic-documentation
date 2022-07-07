@@ -1,10 +1,9 @@
 # Product package Management
 
-- Product packages are classified under products. To control them, 
-first go to the product module and add product after that add product package in product package section.
+- you already ran a command that import all ndc
 
 # Product package list:
- 
+
 - Admin can see the package list and also search the package in this list.
 
 ![Package List](/screenshots/package-list.png)

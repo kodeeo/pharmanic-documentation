@@ -15,6 +15,7 @@
   - [Order](order.md)
   - [Variable](variable.md)
   - [Transaction](transaction.md)
+  - [settings](settings.md)
 
 - User Site
 
@@ -23,6 +24,8 @@
   - [Buy](buy.md)
   - [Account](account.md)
   - [Sell](addpost.md)
+  - [offer](offer.md)
+ 
 
 - Guest login
   - [login](guestlogin.md)

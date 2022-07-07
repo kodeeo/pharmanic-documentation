@@ -1,8 +1,21 @@
-# Add post 
-- For the sale, pharmacies can add their post in the buy section by searching NDC.
-![Add post](/screenshots/addpost.png)
+# Add post
+
+- For the sale, Seller can add their post in the buy section by searching NDC.
+  ![Add post](/screenshots/addpost.png)
 
 # Update post
-- Also the pharmacy can delete or edit his own post. 
-![update post](/screenshots/editpost.png)
 
+- Also the Seller can delete or edit his own post.
+  ![update post](/screenshots/editpost.png)
+
+# My Sell
+
+- Seller can see the order list and also update order.
+
+![My Sell](/screenshots/mysell.png)
+
+# Refund
+
+- when customer return the order in that case seller can refund the order amount in that case seller will keep the refund information by filling this form.
+
+![Refund](/screenshots/refund.png)
