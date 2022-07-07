@@ -18,9 +18,9 @@
 
 ## Place order
 
-- After adding the post pharmacy can place the order from the website.
+- After adding the post buyer can place the order by clicking normal order and also place order by card
 
-![Place order](/screenshots/addtocart.png)
+![Place order](/screenshots/addToCart.png)
 
 ## Pay for order
 
@@ -28,12 +28,12 @@
 
 ## Order list
 
-- The pharmacy can see the order list and order status in buy orders section
+- Buyer can see the order list and order status in My Buy section and buyer only cancel that order
 
-![Order list](/screenshots/order-list.png)
+![Order list](/screenshots/mybuy.png)
 
 ## Order details
 
-- This pharmacy can view the order details too.
+- Buyer can view the order details and also see the track of order too.
 
 ![Order details](/screenshots/orderdetails.png)
