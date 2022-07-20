@@ -11,7 +11,7 @@
 
 ![Password](/screenshots/password.png)
 
-# My posting 
+# My posting
 
 - From my profile's ‘My postings’ option pharmacy can view only those posts that are created by himself.
 
@@ -39,17 +39,16 @@
 
 # Recent Activity
 
-- Where pharmacy can see the all recent activities. 
+- Where pharmacy can see the all recent activities.
 
 ![Recent activity](/screenshots/recent-activity.png)
 
 # Forget Password
+
 - If any pharmacy forgets its password. They recover it from to forget password option.
 - On the password recovery page the pharmacy needs to provide its email.
 
 ![ Forget Password](/screenshots/forgot-password.png)
 
 - After submitting the form with mail one mail will be sent to the mail with reset password link.
-- By clicking the link, pharmacies will redirect to the reset password page and can provide a new password. 
-
-
+- By clicking the link, pharmacies will redirect to the reset password page and can provide a new password.

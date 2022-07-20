@@ -1,6 +1,6 @@
 # Add post
 
-- For the sale, Seller can add their post in the buy section by searching NDC.
+- For the sale, Seller can add their post in the buy section by searching NDC and also seller can not add post with the current month.
   ![Add post](/screenshots/addpost.png)
 
 # Update post
